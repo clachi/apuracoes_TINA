@@ -1,0 +1,107 @@
+ID_UNN;Cargo;Grupo
+1;ANL RH REGIONAL PL;D
+1;Ass Administrativo;D
+1;Ass Departamento Pessoal;D
+1;Ass Manut Serv Gerais;D
+1;Aux Manutenção;D
+1;Conferente;D
+1;Consultor de Vendas Externas;C
+1;Operador Empilhadeira;D
+1;Sup Administrativo;B
+1;Sup Caixa;B
+1;T�cnico Projetista;C
+1;T�cnico Seguranca Trabalho Pl;D
+1;Anl de Log�stica Jr;D
+1;Ger Geral I;GG
+1;Ger Geral II;GG
+1;Ger Geral III;GG
+1;GER GERAL SR;GG
+1;Ass de Expedição;D
+1;Ass Depósito;D
+1;Ass Prevenção de Perdas;D
+1;Ass Recebimento;D
+1;Ass Serviço ao Cliente;D
+1;Ass Serviços ao Cliente;D
+1;ASSESSOR DE LOJA;D
+1;ASSESSOR DE OPERACOES;D
+1;Assessor de Operações I;D
+1;Assessor de Operações II;D
+1;Atendente de Loja;D
+1;Operador(a) Caixa;D
+1;Repositor(a);D
+1;Oficial Manutenção Eletricista;D
+1;DESIGNER PROJETISTA;C
+1;Vendedor(a);C
+1;Vendedor(a) Especialista;C
+1;Vendedor(a) Especialista Lider;C
+1;Vendedor(a) Projetista;C
+1;Enc de Caixa;B
+1;ENC DE OPERACOES;B
+1;Enc de Produto;B
+1;Enc Depósito;B
+1;Enc Prevenção de Perda;B
+1;Enc SAC;B
+1;Enc Serviços ao Cliente;B
+1;Lider de Caixa;B
+1;Enc CTN;B
+1;Ger de Produto I;A
+1;Ger de Produto II;A
+1;Ger de Vendas I;A
+1;Ger de Vendas II;A
+1;Ger de Vendas III;A
+1;Ger Operacional I;A
+1;Ger Operacional II;A
+1;Gerente Operacional;A
+1;Sup de Produto;A
+1;Sup de Vendas;A
+1;Sup deProduto I;A
+1;Sup Operacional;A
+4;Ass de Monitoramento                ;D
+4;ASSESSOR DE LOJA                    ;D
+4;Assistente  de Atendimento          ;D
+4;AUXILIAR DE EXPEDICAO I             ;D
+4;AUXILIAR DE EXPEDICAO II            ;D
+4;AUXILIAR DE EXPEDICAO LOJA          ;D
+4;AUXILIAR DE LOJA                    ;D
+4;AUXILIAR DE MALOTE                  ;D
+4;CAIXA ADMINISTRATIVA                ;D
+4;CAIXA CREDIARISTA                   ;D
+4;CAIXA CREDIARISTA LIDER             ;D
+4;CONFERENTE DE DEPARTAMENTO          ;D
+4;CONFERENTE DE PLATAFORMA I          ;D
+4;CONFERENTE DE PLATAFORMA II         ;D
+4;CONFERENTE DEPARTAMENTO II          ;D
+4;CONFERENTE DEPARTAMENTO III         ;D
+4;CONFERENTE NOTURNO III              ;D
+4;Consultor de Vendas Externas        ;C
+4;DESIGNER PROJETISTA                 ;C
+4;ENCARREGADO EXPEDICAO DEPOSITO      ;C
+4;FISCAL DE LOJA                      ;D
+4;GER TELEVENDAS                      ;B
+4;GERENTE ADJUNTO                     ;B
+4;GERENTE DE LOJA                     ;A
+4;Gerente de Produtos                 ;B
+4;Gerente Operacional                 ;B
+4;GERENTE TRAINEE                     ;B
+4;LIDER DE LOJA                       ;D
+4;MOTORISTA                           ;D
+4;MOTORISTA DE CARRETA                ;D
+4;MOTORISTA DE TRUQUE                 ;D
+4;OPERADOR DE EMPILHADEIRA            ;D
+4;OPERADOR DE EMPILHADEIRA II         ;D
+4;OPERADOR DE EMPILHADEIRA LOJA       ;D
+4;OPERADOR DE TELE VENDAS             ;D
+4;Operador Empilhadeira               ;D
+4;OPERADOR EMPILHADEIRA NOTURNO       ;D
+4;Operador(a) Empilhadeira II         ;D
+4;SERRADOR III                        ;D
+4;SUB CHEFE DE DEPARTAMENTO           ;D
+4;SUPERVISOR FISCAL DE LOJA           ;C
+4;Supervisor Televendas               ;C
+4;SUPERVISORA DE CAIXA                ;C
+4;VENDEDOR JUNIOR                     ;C
+4;VENDEDOR PLENO                      ;C
+4;VENDEDOR SENIOR                     ;C
+4;Vendedor(a)                         ;C
+4;VENDEDOR(A) TELEVENDAS              ;C
+4;VIGILANTE                           ;D
